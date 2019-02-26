@@ -5,8 +5,8 @@
         "phpunit/phpunit": "^4.7"
     },
     "autoload": {
-        "psr-0": {
-            "MyGreeter": "lib/"
+        "psr-4": {
+            "MyGreeter\\": "lib/"
         }
     },
     "authors": [
